@@ -35,7 +35,7 @@ From all model building results we can conclude that cohen_kappa_Score for Catbo
 Flask File creation: Following are the steps followed in creating Flask file:
 1)Import Flask from flask module
 2)Create an instance of the Flask class
-3)We use @app.route(‘/’)  to execute home function and @app.route(‘/predict’, methods=[POST]) to execute predict function Using which gives results page for this use index.html
+3)We use @app.route(‘/’)  to execute home function and @app.route(‘/predict’, methods=[POST]) to execute predict function we can find these two functions in a single index.html file
 4)After execute whole deployment code it gives link like http://127.0.0:5000 run this link to get results. 
 
 Once the deployment is done we can predict if the client will subscribe (yes/no) a term deposit (variable y) for all the fearures in the dataset.
