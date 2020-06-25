@@ -40,4 +40,4 @@ Flask File creation: Following are the steps followed in creating Flask file:
 
 Once the deployment is done we can predict if the client will subscribe (yes/no) a term deposit (variable y) for all the fearures in the dataset.
 
-These are the above steps are followed during this Project.
+These are the above steps are followed during this Project
