@@ -38,6 +38,8 @@ Flask File creation: Following are the steps followed in creating Flask file:
 3)We use @app.route(‘/’)  to execute home function and @app.route(‘/predict’, methods=[POST]) to execute predict function we can find these two functions in a single index.html file
 4)After execute whole deployment code it gives link like http://127.0.0:5000 run this link to get results. 
 
+Other method is i did the samke flask deployment in Heroku : Please ckick on the below link : https://apptoday.herokuapp.com/
+
 Once the deployment is done we can predict if the client will subscribe (yes/no) a term deposit (variable y) for all the fearures in the dataset.
 
 These are the above steps are followed during this Project
